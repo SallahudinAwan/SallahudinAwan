@@ -226,9 +226,9 @@ I'm interested in opportunities around:
 
 [![GitHub](https://img.shields.io/badge/GitHub-SallahudinAwan-181717?logo=github)](https://github.com/SallahudinAwan)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sallahudin-awan-15781623a/)
 
-📧 **Email:** YOUR_PROFESSIONAL_EMAIL
+📧 **Email:** sallahudinawan8@gmail.com
 
 ---
 
